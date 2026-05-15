@@ -1,1 +1,0 @@
-student ={"name":"Radhika","score":{"phy":97,"chem":98,"Maths":96}}

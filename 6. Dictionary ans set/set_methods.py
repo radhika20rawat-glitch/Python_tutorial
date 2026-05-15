@@ -1,0 +1,16 @@
+collection = set()
+collection1 = {7,6,8,9}
+collection.add(1)
+collection.add(2)
+collection.add(1)
+collection.add("Radhika")
+collection.add(3)
+collection.add((1,2,3))
+collection.remove(3)
+print(collection)
+# collection.clear()
+
+collection.union(collection1)
+print(collection)
+collection.intersection(collection1)
+print(collection)
