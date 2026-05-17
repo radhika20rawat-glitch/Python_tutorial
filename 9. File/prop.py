@@ -9,3 +9,30 @@ with open("practice.txt","r") as f:
       num = ""
     else:
       num += data[i]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
